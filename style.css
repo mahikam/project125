@@ -1,0 +1,40 @@
+.font_change{
+    /* font-family: 'Alegreya Sans SC', sans-serif; */
+    /* font-family: 'Caramel', cursive; */
+    /* font-family: 'Ephesis', cursive; */
+    font-family: 'Birthstone Bounce', cursive;
+}
+
+body{
+    background-size: contain;
+}
+
+.header{
+    background-color: #756644e3;
+    /* #68768c */
+    width:100%;
+    height: 100px;
+    margin-top: 0px;
+    border: 2px white solid;
+    font-size: 27px;
+    color: white;
+    box-shadow:5px 15px 15px grey;
+    
+}
+.text{
+    font-size:17px;
+    color: rgb(53, 52, 52);
+}
+#footer{
+    bottom:-13;
+    position:fixed;
+    text-align: center;
+    background-color: #6e6040;
+    width:100%;
+    height: 35px;
+    color:white;
+    font-size:25px;
+}
+canvas{
+    border:2px white solid;
+}
